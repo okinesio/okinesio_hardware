@@ -1,7 +1,7 @@
 # okinesio-v01
 This repository contains resources for the okinesio board v0.1
 
-Eagle files and schematics are modified and extended versions of the original files from [LilyPad Arduino USB](http://lilypadarduino.org/?p=1494).
+Eagle files and schematics are modified and extended versions of the original files from [LilyPad Arduino USB](https://github.com/sparkfun/LilyPad_Arduino_USB).
 
 
 License Information
