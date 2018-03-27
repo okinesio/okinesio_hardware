@@ -27817,10 +27817,10 @@ DIN A4, landscape with extra doc field</description>
 <text x="-2.5" y="-6.15" size="1.27" layer="27">&gt;VALUE</text>
 <rectangle x1="-2.5" y1="-2.5" x2="2.5" y2="2.5" layer="1"/>
 <rectangle x1="-2.54" y1="-2.54" x2="2.54" y2="2.54" layer="29"/>
-<rectangle x1="-1.524" y1="0.762" x2="-0.762" y2="1.524" layer="32"/>
-<rectangle x1="0.762" y1="0.762" x2="1.524" y2="1.524" layer="32"/>
-<rectangle x1="0.762" y1="-1.524" x2="1.524" y2="-0.762" layer="32"/>
-<rectangle x1="-1.397" y1="-1.524" x2="-0.635" y2="-0.762" layer="32"/>
+<rectangle x1="-1.524" y1="0.762" x2="-0.762" y2="1.524" layer="31"/>
+<rectangle x1="0.762" y1="0.762" x2="1.524" y2="1.524" layer="31"/>
+<rectangle x1="0.762" y1="-1.524" x2="1.524" y2="-0.762" layer="31"/>
+<rectangle x1="-1.397" y1="-1.524" x2="-0.635" y2="-0.762" layer="31"/>
 </package>
 </packages>
 <symbols>
